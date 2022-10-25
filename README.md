@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teflonjosh
-- 👀 I’m interested in Python and Java programming; HTML and CSS front-end design
+- 👀 I’m interested in Python and Java programming; HTML/CSS/JavaScript front-end design
 - 📫 How to reach me? Please reach out for personal contact info! 
 
 <!---
